@@ -1,4 +1,4 @@
-# TRZz
+# TRZ
 
 This app depends on code generation libraries (Json code generation and MobX)
 
